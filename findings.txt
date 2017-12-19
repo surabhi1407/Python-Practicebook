@@ -1,0 +1,15 @@
+ Total number of girls 252986
+ Total number of boys 267129
+Ratio of girls in SCH 8.102819918888793
+Ratio of boys in SCH 8.04854583366089
+Ratio of girls in JJ 0.030436466840062293
+Ratio of boys in JJ 0.15984786376619536
+The ratio of total American Indian population is 1.4148794016707842
+The ratio of total Hawaiian or Pacific Islander population is 0.36895686530863364
+The ratio of total Female population is 48.64039683531527
+The ratio of total Two or more races population is 3.047787508531767
+The ratio of total Male population is 51.35960316468473
+The ratio of total Hispanic population is 26.157868932832162
+The ratio of total Asian population is 5.043692260365496
+The ratio of total Black population is 14.120723301577536
+The ratio of total White population is 49.84609172971362
